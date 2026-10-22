@@ -1,0 +1,5 @@
+model,RMSE,MAE,MAPE_%,MAPE_normal_%
+Naive (last value),3512021.99,2507472.14,446.83,21.49
+Seasonal naive (7d),1775080.15,1179019.24,17.41,19.52
+Seasonal naive (14d),527462.31,354693.05,5.09,5.09
+Seasonal naive (364d),1338134.67,1081606.19,14.73,15.67
